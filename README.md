@@ -1,4 +1,4 @@
-[<!--
+<!--
 **Yeoonnii/Yeoonnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=190&text=Yeoonnii's%20Hub&animation=twinkling)
 
 ### 🛠Tech Stack🛠
@@ -44,8 +46,8 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
-  <a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
-  <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
+  <a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </div>
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&text=Yeoonnii's%20Hub&fontSize=40&animation=twinkling)
 
-### 🛠Tech Stack🛠
+<center>### 🛠Tech Stack🛠</center>
 
 <br />
 
@@ -38,21 +38,22 @@ Here are some ideas to get you started:
 
 <br />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)
+<center>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)</center>
 
 <br />
 
-### 🌠About Me🌠
+<center>### 🌠About Me🌠</center>
 
 <div align='center'>
   
   <a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-</div>
+
 
 <br />
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&height=120)

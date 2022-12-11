@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align='center'>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=190&text=Yeoonnii's%20Hub&animation=twinkling)
 <h3>🛠Tech Stack🛠</h3>
 <br />
@@ -31,9 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=black"/>
 </div>
 <br />
-<div align='center'>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)
-</div>
 
 <br />
 <h3>🌠About Me🌠</h3>
@@ -42,6 +41,5 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
 </div>
 <br />
-<div align='center'>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)
 </div>

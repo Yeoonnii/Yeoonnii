@@ -39,14 +39,12 @@ Here are some ideas to get you started:
 
 <br />
 
-<center>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)</center>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)
 
 <br />
 
-  ### 🌠About Me🌠
+   ### 🌠About Me🌠
 
-<div align='center'>
-  
   <a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 

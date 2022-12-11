@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&height=120)

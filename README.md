@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <br />
 
-
-
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -36,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=black"/>
 
+<br />
 <br />
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)

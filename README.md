@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div align='center'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)(https://github.com/Yeoonnii/)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeoonnii&layout=compact)
 </div>
 
 <br />
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div align='center'>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)(https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)
 </div>

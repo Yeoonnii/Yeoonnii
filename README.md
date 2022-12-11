@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&text=Yeoonnii's%20Hub&fontSize=40&animation=twinkling)
 
-<center>### 🛠Tech Stack🛠</center>
+   ### 🛠Tech Stack🛠
 
 <br />
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<center>### 🌠About Me🌠</center>
+  ### 🌠About Me🌠
 
 <div align='center'>
   

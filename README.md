@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&text=Yeoonnii's%20Hub&fontSize=40&animation=twinkling)
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<div align='center'>
+
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
@@ -54,6 +55,8 @@ Here are some ideas to get you started:
 <br />
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoonnii&count_bg=%23EB7C7C&title_bg=%23F5C6C6&icon=github.svg&icon_color=%236E6E6E&title=hits&edge_flat=false)
-</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&height=120)
+
+</div>

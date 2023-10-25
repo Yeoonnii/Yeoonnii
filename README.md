@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br />   
    
-  <a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <!--<a href="https://marvelous-devourer-275.notion.site/Ahyun-Moon-8b87737fb2204248bd38de870c819e83"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>-->
   <a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:ahyun0713@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
